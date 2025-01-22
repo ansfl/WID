@@ -27,4 +27,12 @@ Data and code will be available soon.
 
 If you find the paper, dataset, or code helpful in your research, please cite our paper:
 
-```bibtex@article{yampolsky2024multiple, title={Multiple and Gyro-Free Inertial Datasets}, author={Yampolsky, Zeev and Stolero, Yair and Pri-Hadash, Nitsan and Solodar, Dan and Massas, Shira}, journal={Scientific Data}, volume={11}, number={1}, pages={1080}, year={2024}, publisher={Nature Publishing Group UK London} }
+```bibtex
+@article{, title={Wheel-Mounted Inertial Datasets},
+author={{Dusan Nemec and Gal Versano and Vojtech Simak and Michal Gregor and Itai Savin and Juraj Kekelak and Itzik Klein},
+journal={Scientific Data},
+volume={},
+number={},
+pages={},
+year={},
+publisher={Nature Publishing Group UK London} }
