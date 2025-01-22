@@ -13,12 +13,12 @@ This versatile dataset will help develop model-based and data-driven approaches 
 </p>
 
 ## Sensors Used
-Xsens DOTs - a low-cost IMU sensors. Eight used in each experiment to produce the raw data.<br/>
-GNSS-RTK - an accurate positioning solution connected to the MRU-P that is licensed with the TerraStar-C Pro system.
+- Xsens DOTs - a low-cost IMU sensors. Eight used in each experiment to produce the raw data.<br/>
+- GNSS-RTK - an accurate positioning solution connected to the MRU-P that is licensed with the TerraStar-C Pro system.
 
 
 ## Platforms
-Car - a private Skoda Roomster <br/>
+- Car - a private Skoda Roomster <br/>
 ![image](https://github.com/user-attachments/assets/02c63ccd-79db-4340-b54f-677d6c060259)
 
 ## Update 
