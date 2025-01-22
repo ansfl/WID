@@ -20,3 +20,11 @@ GNSS-RTK - an accurate positioning solution connected to the MRU-P that is licen
 ## Platforms
 Car - a private Skoda Roomster <br/>
 ![image](https://github.com/user-attachments/assets/02c63ccd-79db-4340-b54f-677d6c060259)
+
+## Update 
+
+Data and code will be available soon.
+
+If you find the paper, dataset, or code helpful in your research, please cite our paper:
+
+```bibtex@article{yampolsky2024multiple, title={Multiple and Gyro-Free Inertial Datasets}, author={Yampolsky, Zeev and Stolero, Yair and Pri-Hadash, Nitsan and Solodar, Dan and Massas, Shira}, journal={Scientific Data}, volume={11}, number={1}, pages={1080}, year={2024}, publisher={Nature Publishing Group UK London} }
