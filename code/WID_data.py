@@ -82,7 +82,6 @@ def load_data_imu(base_folder, data_type):
                     car_df['Trial'] = trial  # Add a column to identify the trial
                     car_data.append(car_df)
 
-        # Concatenate CAR data
         concatenated_car_data = pd.concat(car_data, ignore_index=True) if car_data else None
 
         return concatenated_car_data
