@@ -97,7 +97,7 @@ except Exception as e:
     print(e)
 
 
-data_type='car' #choose data type
+data_type='car' #choose data type (imu,imu_radial,car)
 
 try:
     data_imu = load_data_imu(base_folder, data_type)
