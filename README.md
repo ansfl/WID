@@ -28,11 +28,13 @@ Data and code will be available soon.
 If you find the paper, dataset, or code helpful in your research, please cite our paper:
 
 ```bibtex
-@article{, title={Wheel-Mounted Inertial Datasets},
-author={{Dusan Nemec and Gal Versano and Vojtech Simak and Michal Gregor and Itai Savin and Juraj Kekelak and Itzik Klein},
-journal={Scientific Data},
-volume={},
-number={},
-pages={},
-year={},
-publisher={Nature Publishing Group UK London} }
+@article{figshareAlostarCarDataSet,
+    author = {Dusan, Nemec and Gal, Versano and Vojtech, Simak and Michal, Gregor and Itai, Savin and Juraj,
+Kekelak and Itzik, Klein},
+journal = "figshare", 
+year = 2024, 
+title = {Wheel-Mounted Inertial Datasets v6},    
+doi = {https://doi.org/10.6084/m9.figshare.27129999}, 
+url = {https://doi.org/10.6084/m9.figshare.27129999}
+}
+
