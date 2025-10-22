@@ -5,11 +5,7 @@ Here, you can find the dataset and code of the paper <span style="font-family:Ar
 ## Abstract
 
 <p style="font-family:Verdana; font-size:14px;">
-A wheel-mounted inertial sensor mitigates inertial drift more effectively than an inertial sensor mounted on the vehicle chassis.
-Although their usage is increasing, there is no publicly available dataset for wheel-mounted inertial sensors.
-To fill this gap, this work presents the wheeled-mounted inertial (WMI) dataset. WMI was recorded using two platforms: an omni-directional robot equipped with 5 IMUs, and a passenger car equipped with 9 IMUs.
-Each platform features IMUs mounted on every wheel. In total 106 minutes of recordings for each IMU (740 minutes for all IMUs) were made with associated ground truth trajectory. 
-This versatile dataset will help develop model-based and data-driven approaches with wheel mounted inertial sensors.
+A wheel-mounted inertial sensor mitigates inertial drift more effectively than an inertial sensor mounted on the vehicle chassis. Although their usage is increasing, there is no publicly available dataset for wheel-mounted inertial sensors. To fill this gap, this work presents the wheel-mounted inertial (WMI) dataset. WMI was recorded using two platforms: an omni-directional robot equipped with 5 IMUs, and a passenger car equipped with 9 IMUs. Each platform features IMUs mounted on every wheel. In total  64.04 minutes of recordings for each IMU (490 minutes for all IMUs) were made with associated ground truth trajectory. This versatile dataset will help develop model-based and data-driven approaches with wheel mounted inertial sensors.
 </p>
 
 ## Sensors Used
