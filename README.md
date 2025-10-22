@@ -17,6 +17,9 @@ A wheel-mounted inertial sensor mitigates inertial drift more effectively than a
 - Car - a private Skoda Roomster <br/>
 ![image](https://github.com/user-attachments/assets/02c63ccd-79db-4340-b54f-677d6c060259)
 
+- Mobile Robot <br/>
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3cc76a64-88f1-483a-aceb-3d7ae2bdcc57" />
+
 ## Update 
 
 Data and code will be available soon.
