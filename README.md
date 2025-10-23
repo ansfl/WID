@@ -9,10 +9,15 @@ A wheel-mounted inertial sensor mitigates inertial drift more effectively than a
 </p>
 
 ## Sensors Used
+**Car**
 - Xsens DOTs - a low-cost IMU sensors. Eight used in each experiment to produce the raw data.<br/>
-- GNSS-RTK - an accurate positioning solution connected to the MRU-P that is licensed with the TerraStar-C Pro system.
+- GNSS-RTK - an accurate positioning solution connected to the MRU-P.
 
-
+**Mobile Robot**
+- STMicroelectronics ASM330LHBG (6-DoF IMU) — one on each wheel, measuring linear acceleration and angular velocity.
+- InvenSense MPU9250 (9-DoF IMU) — mounted inside the chassis, combining accelerometer, gyroscope, and magnetometer.
+- GNSS-RTK - provides high-accuracy ground-truth positioning (±0.06 m accuracy with NTRIP corrections).
+  
 ## Platforms
 - Car - a private Skoda Roomster <br/>
 <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/a27946ca-5b5c-4735-980a-f435ac983ba6" />
