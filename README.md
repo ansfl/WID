@@ -33,7 +33,7 @@ Data and code will be available soon.
 If you find the paper, dataset, or code helpful in your research, please cite our paper:
 
 ```bibtex
-@article{figshareAlostarCarDataSet,
+@article{Wheel-Mounted Inertial Datasets,
     author = {Dusan, Nemec and Gal, Versano and Vojtech, Simak and Michal, Gregor and Itai, Savin and Juraj,
 Kekelak and Itzik, Klein},
 journal = "figshare", 
