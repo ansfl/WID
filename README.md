@@ -36,7 +36,7 @@ If you find the paper, dataset, or code helpful in your research, please cite ou
 @article{Wheel-Mounted Inertial Datasets,
     author = {Dusan, Nemec and Gal, Versano and Vojtech, Simak and Michal, Gregor and Itai, Savin and Juraj,
 Kekelak and Itzik, Klein},
-journal = "Scientific Data", 
+journal = {Scientific Data}, 
 year = 2026, 
 title = {Wheel-Mounted Inertial Datasets},    
 }
